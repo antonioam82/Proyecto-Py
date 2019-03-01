@@ -20,4 +20,4 @@ vistas ejemplo Tkinterm,PyQT, Pyside, WinPy ,GTK y otras , también debemos apre
 Modelo Vista Controlador y para una fase mas avanzada a prototipar, UML, API ,
 microservícios entre otras.
 
-###### *3. Ejemplo de los que se Quiere alcanzar:*
+##### *3. Ejemplo de los que se Quiere alcanzar:*
