@@ -45,7 +45,7 @@ Documentos : 0001 Fecha 01/03/2019 Usuario: Pedro Perez
 Descripcion : Cargar de inventario inicial
 
 ***************** Detalle *************************************
-|  Id Producto  |  Descripcion Producto  |  Costo  |  Precio  |      Tipo       |  Cantidad  |
+####|  Id Producto  |  Descripcion Producto  |  Costo  |  Precio  |      Tipo       |  Cantidad  |
 | :-----------: | :--------------------: | :-----: | :------: | :-------------: | :--------: |
 |    0001XA     |  Tarjeta madre foxcon  |   12$   |    23$   |  Entrada invent |    12,00   |
 |    999911     |  Mouse Generico  |   2$   |    3$   |  Entrada invent |    120,00   |
