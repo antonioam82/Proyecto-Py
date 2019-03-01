@@ -23,7 +23,7 @@ microservícios entre otras.
 #### *3. Ejemplo de los que se quiere alcanzar:*
 App de inventario , aquí tenemos los maestros:
 
-####### *Productos:*
+*Productos:*
 Datos contenidos en este id productos, Nombre de productos, Precios, costos, Tipo de
 Impuesto, Utilización del producto descripción amplia de producto, Imagen(CRUD), opción de
 Ingresar, Leer datos, modificar o actualizar y eliminar.
