@@ -1,7 +1,5 @@
 ## **Inicio del proyecto**
 
-### *Proyecto-Py*
+### *Pynventario*
 
-Este es un repositorio dedicado a la realización colaborativa de un proyecto en python, aquí se realizarán una o varias herramientas.
-
-En principio empezaremos usando PyQT.
+Proyecto de sistema inventario usando la metodologia ##CRUD y con interfaces creadads en ##PyQt5
