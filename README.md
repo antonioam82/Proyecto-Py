@@ -20,4 +20,10 @@ vistas ejemplo Tkinterm,PyQT, Pyside, WinPy ,GTK y otras , también debemos apre
 Modelo Vista Controlador y para una fase mas avanzada a prototipar, UML, API ,
 microservícios entre otras.
 
-##### *3. Ejemplo de los que se Quiere alcanzar:*
+##### *3. Ejemplo de los que se quiere alcanzar:*
+App de inventario , aquí tenemos los maestros:
+
+##### *Productos:*
+Datos contenidos en este id productos, Nombre de productos, Precios, costos, Tipo de
+Impuesto, Utilización del producto descripción amplia de producto, Imagen.(CRUD) opción de
+Ingresar, Leer datos, modificar o actualizar y eliminar.
