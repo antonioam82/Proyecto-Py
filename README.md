@@ -46,8 +46,8 @@ Descripcion : Cargar de inventario inicial
 
 ***************** Detalle *************************************
 ####|  Id Producto  |  Descripcion Producto  |  Costo  |  Precio  |      Tipo       |  Cantidad  |
-| :-----------: | :--------------------: | :-----: | :------: | :-------------: | :--------: |
-|    0001XA     |  Tarjeta madre foxcon  |   12$   |    23$   |  Entrada invent |    12,00   |
-|    999911     |  Mouse Generico  |   2$   |    3$   |  Entrada invent |    120,00   |
-|    19999A     |  Teclado USB Español  |   2$   |    4$   |  Entrada invent |    130,00   |
-|    19999A     |  Teclado USB Español  |   2$   |    4$   |  Salida invent |    1,00   |
+####| :-----------: | :--------------------: | :-----: | :------: | :-------------: | :--------: |
+####|    0001XA     |  Tarjeta madre foxcon  |   12$   |    23$   |  Entrada invent |    12,00   |
+####|    999911     |  Mouse Generico  |   2$   |    3$   |  Entrada invent |    120,00   |
+####|    19999A     |  Teclado USB Español  |   2$   |    4$   |  Entrada invent |    130,00   |
+####|    19999A     |  Teclado USB Español  |   2$   |    4$   |  Salida invent |    1,00   |
