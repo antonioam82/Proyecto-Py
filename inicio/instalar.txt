@@ -1,0 +1,12 @@
+para windwos
+1Er paso Instalar Python3 desde la pagina oficial
+https://www.python.org/ importante dale click en la opcion python path
+2do paso instalar pyqt5
+desde consola pip install pyqt5
+
+3er isntalar qt designer
+pip install pyqt5-tools 
+este exe esta ubicado en "designer.exe" ...Lib\site-packages\pyqt5_tools
+4 para utilizar qt con mysql hay que instar el conector mysql de c++
+en esta ruta https://dev.mysql.com/downloads/connector/cpp/
+ 
