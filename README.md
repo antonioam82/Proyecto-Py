@@ -39,3 +39,11 @@ este documentos.
 
 ##### ***Ejemplo:***
 
+Modulos Documentos de Transacción de Inventario:
+
+Documentos : 0001 Fecha 01/03/2019 Usuario: Pedro Perez
+Descripcion : Cargar de inventario inicial
+
+***************** Detalle *************************************
+ 
+
