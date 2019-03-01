@@ -1,4 +1,4 @@
-## **Inicio del proyecto**
+## **Proyecto de aprendizaje y practica para python**
 
 ### *Pynventario*
 
