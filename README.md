@@ -27,3 +27,15 @@ App de inventario , aquí tenemos los maestros:
 Datos contenidos en este id productos, Nombre de productos, Precios, costos, Tipo de
 Impuesto, Utilización del producto descripción amplia de producto, Imagen(CRUD), opción de
 Ingresar, Leer datos, modificar o actualizar y eliminar.
+
+###### *Grupo:*
+Datos contenidos Id grupo, Descripción. (Todos los maestros hay que hacer un CRUD).
+
+###### *Documentos de transacción de Inventario (Maestro detalles):*
+Datos contenidos Id o número de
+documentos ,fecha de elaboración, usuario o persona que los realizo, descripción de transacción,
+en detalle id de productos , descripción de productos , costo, precio, cantidad entrada o salida es
+este documentos.
+
+##### ***Ejemplo:***
+
