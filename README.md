@@ -75,4 +75,18 @@ Se necesita descargar la ultima version de Python3, este se puede instalar desde
 ##### *Paso 1.1:*
 En el momento de la instalacion de Python hay dos opciones; "Install Now" y "Costimize", y un poco mas abajo dos Opciones, una de ellas dice Install Path, se marca esta opcion. Despues escogemos la opcion "Install Now", y todo lo demas es Siguiente y siguiente.
 
-####
+#### *Paso 2:*
+Despues de ya tener instalado Python, se debe instalar PyQT5, para esto, abrimos la consola de comandos(en administrador) y procedemos a escribir lo siguiente: pip install pyqt5
+
+#### *Paso 3:*
+Ahora ya con PyQT5 instalado, debemos instalar el Desinger, para esto en la misma consola o en otra(en administrador tambien) ponemos el siguiente codigo: pip install pyqt5-tools  (Para poder abrir el desinger se debe ir a C:\Users\tu_usuario\AppData\Local\Programs\Python\Python37-32\Lib\site-packages\pyqt5_tools\desinger.exe
+
+#### *Paso 4:*
+Ya con el PyQT y el Desinger instalado, para poder utilizar QT con Mysql hay que instalar un conector Mysql de C++, este se descargar para la mayoria de sistemas operativos, solo escogiendo el que utiliza, para windows esta en 32 y 64 bits.
+https://dev.mysql.com/downloads/connector/cpp/
+
+#### *Paso 5:*
+Ahora toca instalar el servidor Local, este se puede descargar desde la pagina oficial o usando xampp o wamp, puedes escoger a gusto, eso depende de cada quien, aqui los links para cada uno.
+https://www.mysql.com/
+https://www.apachefriends.org/es/download.html
+http://www.wampserver.com/en/
