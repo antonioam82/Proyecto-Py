@@ -63,3 +63,16 @@ Reporte de Valor de Inventario Fecha: 02 de marzo 2019
 |    0001XA     |  Tarjeta madre foxcon  |   12$   |    12,00$   |       144,00$      |
 |    999911     |     Mouse Generico     |    2$   |   120,00$   |       240,00$      |
 |    19999A     |  Teclado USB Español   |    2$   |   129,00$   |       258,00$      |
+
+
+# **instalación**
+
+## ***Windows***
+
+#### *Paso 1:*
+Se necesita descargar la ultima version de Python3, este se puede instalar desde la pagina oficial https://www.python.org/.
+
+##### *Paso 1.1:*
+En el momento de la instalacion de Python hay dos opciones; "Install Now" y "Costimize", y un poco mas abajo dos Opciones, una de ellas dice Install Path, se marca esta opcion. Despues escogemos la opcion "Install Now", y todo lo demas es Siguiente y siguiente.
+
+####
