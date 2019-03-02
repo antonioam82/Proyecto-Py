@@ -87,6 +87,6 @@ https://dev.mysql.com/downloads/connector/cpp/
 
 #### *Paso 5:*
 Ahora toca instalar el servidor Local, este se puede descargar desde la pagina oficial o usando xampp o wamp, puedes escoger a gusto, eso depende de cada quien, aqui los links para cada uno.
-https://www.mysql.com/
-https://www.apachefriends.org/es/download.html
+https://www.mysql.com/ ---
+https://www.apachefriends.org/es/download.html ---
 http://www.wampserver.com/en/
