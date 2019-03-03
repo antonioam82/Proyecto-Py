@@ -1,4 +1,4 @@
-from ui.login_ui import *
+from login_ui import *
 
 ''' Se realiza el import desde la carpeta ui del archivo login_ui
     el cual contiene todo el diseño de la ventana
